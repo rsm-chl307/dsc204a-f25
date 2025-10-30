@@ -15,7 +15,7 @@ Oct 28
 
 Oct 30
 : **2**{: .label} Streaming processing, RDD, Spark
-  <!-- : [Slides]() &#8226; [Recording]() -->
+  : [Slides](assets/slides/11. parallelism-3.pdf) &#8226; [Recording]()
 : **Readings**{: .label .label-reading}  **(Due 11/12)**
   * **Required**: [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
   * **Optional**: [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf)
